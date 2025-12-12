@@ -77,7 +77,7 @@ export default function Header() {
                 href="/#features" 
                 className="text-gray-700 dark:text-white hover:text-red-600 dark:hover:text-yellow-400 transition duration-200 font-semibold text-base"
               >
-                Features
+                Benefits
               </a>
 
               {/* Delivery */}
@@ -199,7 +199,7 @@ export default function Header() {
                   className="flex flex-col items-center justify-center p-4 rounded-xl bg-gray-50 dark:bg-gray-800 hover:bg-red-50 dark:hover:bg-red-900/20 transition duration-200 group"
                 >
                   <i className="fas fa-bolt text-2xl text-red-500 dark:text-red-400 mb-2 group-hover:scale-110 transition-transform"></i>
-                  <span className="font-semibold text-gray-700 dark:text-white">Features</span>
+                  <span className="font-semibold text-gray-700 dark:text-white">Benefits</span>
                 </a>
 
                 <a 

@@ -528,7 +528,7 @@ export default function ReviewsSection({ showAll = false }) {
                   <div className="flex flex-wrap items-center justify-between text-sm text-gray-500 dark:text-gray-400">
                     <div className="flex items-center gap-2">
                       <FaCheckCircle className="text-teal-500" />
-                      <span>Verified Purchase</span>
+                      <span>Genuine User</span>
                     </div>
                     <div>
                       {selectedReview.review.length} characters
