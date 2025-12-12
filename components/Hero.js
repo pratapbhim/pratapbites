@@ -59,7 +59,7 @@ export default function Hero() {
         setNextImage(ads[nextIdx]);
         setTransitioning(false);
       }, 800);
-    }, 12000);
+    }, 4000);
 
     return () => clearInterval(intervalRef.current);
   }, [index, nextImage, isModalOpen]);
@@ -191,7 +191,7 @@ We help vendors earn more with the lowest commission rates in India.          
                 href="#features"
                 className="inline-flex items-center gap-2 px-6 py-3 bg-gradient-to-r from-blue-900 to-blue-700 dark:from-gray-700 dark:to-gray-600 text-white rounded-full font-semibold shadow-md hover:shadow-xl hover:-translate-y-1 transition"
               >
-                ⚡ Explore Features
+                ⚡ Explore Benefits
               </a>
             </div>
 

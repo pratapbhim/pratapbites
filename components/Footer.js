@@ -155,7 +155,7 @@ export default function Footer() {
 
               {/* Instagram */}
               <a
-                href="#"
+                href="https://www.instagram.com/pratap_sons10/"
                 target="_blank"
                 className="w-11 h-11 flex items-center justify-center rounded-full 
                           bg-gradient-to-br from-pink-500 to-red-500 
@@ -167,7 +167,7 @@ export default function Footer() {
 
               {/* YouTube */}
               <a
-                href="#"
+                href="https://www.youtube.com/@pratapandsonsgroup"
                 target="_blank"
                 className="w-11 h-11 flex items-center justify-center rounded-full 
                           bg-gradient-to-br from-red-500 to-red-700 
