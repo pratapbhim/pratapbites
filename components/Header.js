@@ -156,6 +156,13 @@ export default function Header() {
                   </div>
                 )}
               </div>
+              {/* Core venture */}
+              <a 
+                href="https://pratapandsongroup.com/" 
+                target="_blank" rel="noopener noreferrer" className="text-gray-700 dark:text-white hover:text-red-600 dark:hover:text-yellow-400 transition duration-200 font-semibold text-base"
+              >
+                Core Ventures
+              </a>              
 
               {/* Theme Toggle */}
               <button
